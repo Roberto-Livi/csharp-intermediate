@@ -1,0 +1,11 @@
+/Users/robertolivi/csharp-intermediate/bin/Debug/netcoreapp2.1/csharp-intermediate.deps.json
+/Users/robertolivi/csharp-intermediate/bin/Debug/netcoreapp2.1/csharp-intermediate.runtimeconfig.json
+/Users/robertolivi/csharp-intermediate/bin/Debug/netcoreapp2.1/csharp-intermediate.runtimeconfig.dev.json
+/Users/robertolivi/csharp-intermediate/bin/Debug/netcoreapp2.1/csharp-intermediate.dll
+/Users/robertolivi/csharp-intermediate/bin/Debug/netcoreapp2.1/csharp-intermediate.pdb
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.csprojAssemblyReference.cache
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.csproj.CoreCompileInputs.cache
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.AssemblyInfoInputs.cache
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.AssemblyInfo.cs
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.dll
+/Users/robertolivi/csharp-intermediate/obj/Debug/netcoreapp2.1/csharp-intermediate.pdb
