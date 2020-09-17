@@ -28,6 +28,10 @@ namespace csharp_intermediate
                 System.Console.WriteLine("Conversion failed");
             }
 
+            var person = new Person();
+            person.SetBirthdate(new DateTime(1982, 1, 1));
+            System.Console.WriteLine(person.GetBirthdate());
+
         }
 
         static void useParams()
